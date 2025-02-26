@@ -9,4 +9,4 @@ O Flexbox é um sistema de layout do CSS que facilita o alinhamento e distribui�
 -  gap → Define o espaço entre os itens.
 
 
-    É ótimo para criar layouts responsivos e flexíveis! 🚀
+É ótimo para criar layouts responsivos e flexíveis! 🚀
