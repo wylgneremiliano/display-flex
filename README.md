@@ -1,6 +1,6 @@
 O Flexbox é um sistema de layout do CSS que facilita o alinhamento e distribuição de elementos dentro de um contêiner. Ele permite organizar os itens em linha ou coluna, ajustando automaticamente os espaços entre eles.
 
- ###Principais conceitos:
+ ### Principais conceitos:
 
 -  display: flex;  → Ativa o Flexbox no contêiner.
 -  flex-direction  → Define a direção (linha ou coluna).
